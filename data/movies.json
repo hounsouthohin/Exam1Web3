@@ -1,0 +1,48 @@
+
+{
+    "films": [
+        {
+            "id": "1",    
+            "titre": "Inception",
+            "réalisateur": "Christopher Nolan",
+            "description": "Un voleur utilise la technologie des rêves pour influencer des personnes influentes.",
+            "durée": "148"
+        },
+        {
+            "id": "2",
+            "titre": "Le Seigneur des Anneaux",
+            "réalisateur": "Peter Jackson",
+            "description": "Un jeune Hobbit et ses compagnons tentent de détruire un anneau maléfique.",
+            "durée": "178"
+        },
+        {
+            "id": "3",
+            "titre": "The Matrix",
+            "réalisateur": "Lana & Lilly Wachowski",
+            "description": "Un pirate informatique découvre la vérité sur la réalité et rejoint une rébellion contre les machines.",
+            "durée": "136"
+        },
+        {
+            "id": "4",
+            "titre": "Forrest Gump",
+            "réalisateur": "Robert Zemeckis",
+            "description": "Un homme simple au cœur pur traverse les événements majeurs de l'histoire américaine.",
+            "durée": "142"
+        },
+        {
+            "id": 5,
+            "titre": "Interstellar",
+            "réalisateur": "Christopher Nolan",
+            "description": "Des explorateurs voyagent à travers un trou de ver pour trouver un nouveau foyer à l'humanité.",
+            "durée": "169"
+        },
+        {
+            "id": 6,
+            "titre": "Gladiator",
+            "réalisateur": "Ridley Scott",
+            "description": "Un général romain déchu devient gladiateur pour se venger de l'empereur corrompu.",
+            "durée": "155"
+        }
+    ]
+}
+
